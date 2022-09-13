@@ -2,7 +2,7 @@
 Fall/Herbst-semester 2022
 
 ## Lectures
-Mondays 9.00-9.45 (Y27-J-46), 10.00-10.45 (Y27-J-46)
+Mondays 9.00-9.45 (Y27-H-46), 10.00-10.45 (Y27-H-46)
 
 ## Exercises
 Monday 11.00-11.45 (Y01-F-50)
