@@ -1,3 +1,8 @@
+collaborators of the 1st row (*rough* work separation):
+- JRudyRay (content)
+- Thapeachydude (content)
+- radRoy (markdown, git)
+
 ## 2. Exercise:
 
 ___SmartSeq3___ is a plate-based scRNA-seq technology. Unlike common droplet-based approaches (10x Genomics), SmartSeq3 doesn’t have a bias towards the 3-prime or 5-prime end of the transcript, but captures full length transcripts. Apart from “regular” scRNA-seq analysis also applicable to the 10x platform, this allows the investigation of differentially expressed splice variants.
