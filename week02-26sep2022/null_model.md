@@ -19,3 +19,5 @@
 - assume that the probability of an EcoRI fragment containing a bubble or not containing a bubble is independent of the bubble-containing status of its neighbors.
 - estimate the probability p of a genomic EcoRI fragment containing a bubble: fraction of EcoRI fragments containing bubbles
 - using above assumptions, the probability of finding two bubble-containing fragments separated by n non-bubble-containing fragments is given by $p^2 *(1- p)^n$.
+
+By Himmelgrau, msalzm, georgeastakhov2
