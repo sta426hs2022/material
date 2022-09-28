@@ -2,15 +2,19 @@
 
 ## Overview
 
-ChIP-seq, which combines chromatin immunoprecipitation (ChIP) assays with high-throughput sequencing, is a method to identify DNA-binding sites, primarily for transcription factors and other DNA-binding protein.
+ChIP-seq, which combines chromatin immunoprecipitation (ChIP) assays with high-throughput sequencing, is a method to identify DNA-binding sites, primarily for transcription factors and other DNA-binding proteins.
 
-Target DNA regions oin the genome for a target protein is coprecipated in ChIP protocol with a specify antibody. Purfied and amplified, the bound DNA fragments are the subject to high-throughput sequencing.
+Target DNA regions in the genome for a target protein is coprecipated in ChIP protocol with a specify antibody. Purfied and amplified, the bound DNA fragments are the subject to high-throughput sequencing.
 
 The short sequenced fragments are mapped to a reference genome of choice via alignment. The regions of enriched read counts (tags) are called/identified by different peak calling algorithms.
 
 ## _Link_
 
-ChIP-seq -> DNA-binding sites discovery -> Poisson Model/Negative Binomial Model
+<!-- ChIP-seq -> DNA-binding sites discovery -> Poisson Model/Negative Binomial Model -->
+
+| Technology    | Application   | Statistics |
+| ------------- | ------------- | ---------- |
+|  ChIP-seq | Analysis/discovery of DNA binding sites (regulatory elements), chromatin interaction identification | Negative binomial/dynamic Poisson distribution |
 
 ## Links and references
 
