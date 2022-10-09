@@ -22,7 +22,7 @@ Monday 11.00-11.45 (Y01-F-50)
 | 03.10.2022  | Hubert | NGS intro; exploratory data analysis | EDA in R | | |
 | 10.10.2022  | Mark | limma + friends | linear model simulation + design matrices | | |
 | 17.10.2022  | Hubert | mapping  | Rsubread | | |
-| 24.10.2022  | Hubert | RNA-seq quantification | RSEM  | X | X |
+| 24.10.2022  | Hubert | RNA-seq quantification | RSEM  | [Capturing Heterogeneity in Gene Expression Studies by Surrogate Variable Analysis](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161) JK DW | X |
 | 31.10.2022  | Mark | edgeR+friends 1 | basic edgeR/voom | X  | X |
 | 07.11.2022  | Mark | edgeR+friends 2 | advanced edgeR/voom | X | X |
 | 14.11.2022  | YYY | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. | X | X |
