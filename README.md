@@ -23,7 +23,7 @@ Monday 11.00-11.45 (Y01-F-50)
 | 10.10.2022  | Mark | limma + friends | linear model simulation + design matrices | | |
 | 17.10.2022  | Hubert | mapping  | Rsubread | | |
 | 24.10.2022  | Hubert | RNA-seq quantification | RSEM  | [Capturing Heterogeneity in Gene Expression Studies by Surrogate Variable Analysis](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161) JK DW | X |
-| 31.10.2022  | Mark | edgeR+friends 1 | basic edgeR/voom | X  | X |
+| 31.10.2022  | Mark | edgeR+friends 1 | basic edgeR/voom | [Cell2location maps fine-grained cell types in spatial transcriptomics](https://www.nature.com/articles/s41587-021-01139-4) (JS, GM)  | X |
 | 07.11.2022  | Mark | edgeR+friends 2 | advanced edgeR/voom | X | X |
 | 14.11.2022  | YYY | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. | X | X |
 | 21.11.2022  | Hubert | single-cell 1: preprocessing, dim. reduction, clustering | clustering | X | [Comparison of Transformations for Single-Cell RNA-Seq Data](https://www.biorxiv.org/content/10.1101/2021.06.24.449781v3.full.pdf) (GA, RE)|
