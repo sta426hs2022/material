@@ -22,12 +22,12 @@ Monday 11.00-11.45 (Y01-F-50)
 | 03.10.2022  | Hubert | NGS intro; exploratory data analysis | EDA in R | | |
 | 10.10.2022  | Mark | limma + friends | linear model simulation + design matrices | | |
 | 17.10.2022  | Hubert | mapping  | Rsubread | | |
-| 24.10.2022  | Hubert | RNA-seq quantification | RSEM  | X | X |
+| 24.10.2022  | Hubert | RNA-seq quantification | RSEM  | [Capturing Heterogeneity in Gene Expression Studies by Surrogate Variable Analysis](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161) JK DW | X |
 | 31.10.2022  | Mark | edgeR+friends 1 | basic edgeR/voom | X  | X |
 | 07.11.2022  | Mark | edgeR+friends 2 | advanced edgeR/voom | X | X |
 | 14.11.2022  | YYY | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. | X | X |
 | 21.11.2022  | Hubert | single-cell 1: preprocessing, dim. reduction, clustering | clustering | X | X |
-| 28.11.2022  | YYY | hands-on session #2: cytometry  | cytof null comparison | X | X |
+| 28.11.2022 | YYY | hands-on session #2: cytometry | cytof null comparison | [Integrated analysis of multimodal single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867421005833) (ME, FR) | X |
 | 05.12.2022  | Mark | single-cell 2: clustering, marker gene DE  | marker gene DE | X | X
 | 12.12.2022  | YYY | hands-on session #3: single-cell RNA-seq (cell type definition, differential state)  | full scRNA-seq pipeline | X | X |
 | 19.12.2022  | Mark | loose ends: HMM, EM, robustness   | segmentation, peak finding | X | X |

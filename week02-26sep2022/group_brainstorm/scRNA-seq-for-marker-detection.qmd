@@ -1,0 +1,30 @@
+---
+title: "exercise2"
+author: "Dennis Klose, Tomas Demeter"
+format: html
+---
+
+# Flow cytometry (PART A)
+
+- Fluorochrome-coupled antibodies against surface marker on cells
+- SSC/FSC detectors pick up the granulosity/size of the cells which pass the laser
+- Fluorescence detectors pick up fluorescence signal from antibody against surface marker
+
+Links:
+
+- https://www.youtube.com/watch?v=7i4e6ycymkE&t=674s
+- https://link.springer.com/protocol/10.1007/978-1-0716-2736-5_4
+
+# Single cell RNA-seq for marker detection (PART B)
+
+Single cell RNA-seq (scRNA-seq) unlike bulk RNA-seq allows to determine transcriptonic profiles of individual cells in a population. This is achieved by implementing microfluidics in the sample preparation step. Theoretically, each individual cell is encapsulated in a single droplet containing unique cell barcode. The cell within the droplet is then lysated and barcodes are annealed to all the released RNA. Cell barcodes are then used during bioinformatic analysis to determine which RNA molecules originate from the same cell. scRNA-seq can also be implementent to search for novel cell and subcell markers using cluster analysis of scRNA-seq data. THere are a few bioinformatic methods that address this problem:
+
+ 1. COMET which uses XL-minimal HyperGeometric (mHG) test
+ 2. Hypergate uses a purity score statistic 
+ 3. RANKCORR explores a non-parametric approach
+ 4. CombiROC explores the area under the ROC curve statistics of marker combinations find the best panel combinations
+ 5. Seurat and MAST using parametric models can also be implemented
+
+ Li et. al., 2022 (Detection of cell markers from single cell RNA-seq with sc2marker)
+
+Usernames GitHub: DennisKlose, TomasDemeter
