@@ -28,7 +28,7 @@ Monday 11.00-11.45 (Y01-F-50)
 | 14.11.2022  | YYY | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. | X | X |
 | 21.11.2022  | Hubert | single-cell 1: preprocessing, dim. reduction, clustering | clustering | X | X |
 | 28.11.2022 | YYY | hands-on session #2: cytometry | cytof null comparison | [Integrated analysis of multimodal single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867421005833) (ME, FR) | X |
-| 05.12.2022  | Mark | single-cell 2: clustering, marker gene DE  | marker gene DE | X | X
+| 05.12.2022  | Mark | single-cell 2: clustering, marker gene DE  | marker gene DE | [Differential abundance testing on single-cell data using k-nearest neighbor graphs](https://www.nature.com/articles/s41587-021-01033-z) (DK) | X
 | 12.12.2022  | YYY | hands-on session #3: single-cell RNA-seq (cell type definition, differential state)  | full scRNA-seq pipeline | X | X |
 | 19.12.2022  | Mark | loose ends: HMM, EM, robustness   | segmentation, peak finding | X | X |
  
