@@ -2,7 +2,9 @@
 title: "Exercise 03"
 author: "Hubert Rehrauer"
 date: "03 10 2022"
-format: html
+format:
+  html:
+    self-contained: true
 ---
 
 ```{r setup, include=FALSE}
