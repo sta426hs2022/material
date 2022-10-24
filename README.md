@@ -13,9 +13,11 @@ Monday 11.00-11.45 (Y01-F-50)
 
 [Prof. Dr. Mark Robinson](https://robinsonlabuzh.github.io/), Associate Professor of Statistical Genomics, [DMLS](https://www.mls.uzh.ch/en.html), UZH  
 
-[Emanuel Sonder](https://www.mls.uzh.ch/en/research/robinson/groupmembers/emanuel-sonder.html), PhD Student, [D-HEST](https://hest.ethz.ch/en), ETHZ
-[Helena Crowell](https://robinsonlabuzh.github.io/people.html), PhD Student, [DMLS](https://www.mls.uzh.ch/en.html), UZH
-[Anthony Sonrel](https://www.mls.uzh.ch/en/research/robinson/groupmembers/anthony-sonrel.html), PhD Student, [DMLS](https://www.mls.uzh.ch/en.html), UZH
+[Emanuel Sonder](https://www.mls.uzh.ch/en/research/robinson/groupmembers/emanuel-sonder.html), PhD Student, [D-HEST](https://hest.ethz.ch/en), ETHZ  
+
+[Helena Crowell](https://robinsonlabuzh.github.io/people.html), PhD Student, [DMLS](https://www.mls.uzh.ch/en.html), UZH  
+
+[Anthony Sonrel](https://www.mls.uzh.ch/en/research/robinson/groupmembers/anthony-sonrel.html), PhD Student, [DMLS](https://www.mls.uzh.ch/en.html), UZH  
 
 ## Schedule
 
